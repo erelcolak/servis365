@@ -1,0 +1,47 @@
+/* Custom Styles */
+.card-title{
+	min-height: 64px;
+}
+.owl-nav {
+	position: absolute;
+	top: 50%;
+	left: 0px;
+	margin-top: -38px !important;
+	padding: 0px 15px;
+	width: 100%;
+}
+.owl-carousel .owl-nav button{
+	padding: 0px !important;
+	margin: 0px !important;
+	color: #455a64 !important;
+	line-height: 1.5 !important;
+	background-color: #ffffff !important;
+	transition: all 0.2s linear;
+	-webkit-transition: all 0.2s linear;
+	-moz-transition: all 0.2s linear;
+	-o-transition: all 0.2s linear;
+	box-shadow: 0px 3px 7px 0px rgba(0, 0, 0, 0.2);
+	-webkit-box-shadow: 0px 3px 7px 0px rgba(0, 0, 0, 0.2);
+	outline: none;
+}
+.owl-carousel .owl-nav button:hover{
+	color: #455a64;
+	background-color: #eceff1 !important;
+}
+.owl-carousel .owl-nav button.owl-prev {
+	float: left;
+}
+.owl-carousel .owl-nav button.owl-next {
+	float: right;
+}
+.owl-carousel .owl-nav button.owl-prev i,
+.owl-carousel .owl-nav button.owl-next i{
+	font-size: 21px;
+	width: 36px;
+	height: 36px;
+	line-height: 36px;
+}
+
+#sidebarLeftMenu_05 {
+	margin-top: 15px;
+}
