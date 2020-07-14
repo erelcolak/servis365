@@ -5,7 +5,7 @@ SIDEBAR MENU
 */
 
 // Set Constant Variables
-const baseDomain = 'http://erelcolak.com/servis365';
+const baseDomain = '';
 const sidebarLeftMenuContainer = 'sidebarLeftMenuContainer';
 const refreshMenuId = '9901';
 const refreshLocalStorageId = '9902';
